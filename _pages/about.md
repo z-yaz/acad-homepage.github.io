@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026</div>
-      <img src='images/CC-CDFSL.png' alt="AFIP overview" width="100%">
+      <img src='images/CC-CDFSL.png' alt="CC-CDFSL overview" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

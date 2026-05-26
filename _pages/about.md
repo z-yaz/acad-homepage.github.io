@@ -28,6 +28,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2026</div>
+      <img src='images/CC-CDFSL.png' alt="CC-CDFSL overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655)
+
+Yaze Zhao, Yixiong Zou, Yuhua Li, Ruixuan Li
+
+- This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP). To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
+
+</div>
+</div>
+
+
 <div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

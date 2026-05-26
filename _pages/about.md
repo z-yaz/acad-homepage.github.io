@@ -40,6 +40,33 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
+
+
+<!-- paper-box 基础容器，定义论文卡片的整体布局（flexbox、边框、内边距等）。
+     paper-box--afip 特殊变体类，配合CSS实现对应样式控制 -->
+<div class='paper-box paper-box--afip'>
+  <!-- paper-box-image 图片区域，桌面端在左侧（order: 1），移动端在上方（order: 2） -->
+  <div class='paper-box-image'>
+    <div>
+      <!-- badge 会议/状态标签，绝对定位在图片左上角，背景色 #00369f -->
+      <div class="badge">CVPR 2026</div>
+      <img src='images/CC-CDFSL.png' alt="AFIP overview" width="100%">
+    </div>
+  </div>
+  <!-- paper-box-text 文字区域，markdown="1" 允许内部使用 Markdown 语法（加粗、列表等） -->
+  <div class='paper-box-text' markdown="1">
+
+  [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655)
+
+**Yaze Zhao**, Yixiong Zou, Yuhua Li, Ruixuan Li
+
+- This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP).
+To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
+  </div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards

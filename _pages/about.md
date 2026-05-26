@@ -27,37 +27,69 @@ My research interest includes neural machine translation and computer vision. I 
 - *2026.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-<div class='paper-box paper-box--afip'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2026</div>
-      <img src='images/CC-CDFSL.png' alt="AFIP overview" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655)
-
-**Yaze Zhao**, Yixiong Zou, Yuhua Li, Ruixuan Li
-
-- This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP).To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
-  </div>
-</div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.
+- <sup>†</sup> indicates equal contribution (co-first authors).
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
- -->
+<div class='paper-box paper-box--moon'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/moon.png' alt="MOON overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**
+
+Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
+
+- We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models](https://arxiv.org/abs/2602.01167)
+
+**Zhiming Liu**, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang
+
+- We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
+
+Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
+
+- We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.
+- <sup>†</sup> indicates equal contribution (co-first authors).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/adrl.png' alt="paper-1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785)
+
+Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</sup>, Tingjin Luo, Chenping Hou
+
+- We proposed *ADRL*, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.
+- <sup>†</sup> indicates equal contribution (co-first authors).
+</div>
+</div>
+
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

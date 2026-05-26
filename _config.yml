@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yaze Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "华中科技大学读研"
 repository               : "z-yaz/z-yaz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "z-yaz"
   google_plus      :
   keybase          :
   instagram        :

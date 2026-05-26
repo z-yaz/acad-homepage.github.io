@@ -61,7 +61,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 - We propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves state-of-the-art performance on four CDFSL benchmarks.
 - <sup>†</sup> indicates equal contribution (co-first authors).
-
 </div>
 </div>
 

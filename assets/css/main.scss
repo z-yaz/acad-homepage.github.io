@@ -326,6 +326,29 @@ body,
     }
 }
 
+
+
+
+/**
+ * 移动端汉堡菜单按钮隐藏规则
+ * 适用场景：Minimal Mistakes Jekyll 主题自定义导航优化
+ * 功能：在屏幕宽度≤768px时，隐藏默认的移动端汉堡菜单按钮
+ * 原因：已将导航改为居中横向布局，默认汉堡菜单按钮多余且影响视觉一致性
+ */
+@media (max-width: 768px) { /* 媒体查询：仅对最大宽度768px的设备生效（移动端/平板竖屏） */
+  /* 选择器：匹配主题中两个汉堡菜单按钮的类名 */
+  /* .menu-toggle: 主题默认的菜单切换按钮基础类 */
+  /* .masthead__menu-toggle: 头部导航区域的菜单切换按钮专用类 */
+  .menu-toggle,
+  .masthead__menu-toggle {
+    display: none !important; /* 核心属性：完全隐藏元素，不占据页面空间 */
+                              /* !important：强制覆盖主题默认样式优先级 */
+                              /* 作用：确保按钮在任何情况下都不显示，避免主题JS动态控制显示 */
+  }
+}
+
+
+
 .sidebar {
     padding-top: 0.4rem;
 }

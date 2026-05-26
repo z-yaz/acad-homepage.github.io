@@ -31,20 +31,18 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026</div>
-      <img src='images/CC-CDFSL.png' alt="CC-CDFSL overview" width="100%">
+      <img src='images/CC-CDFSL.png' alt="AFIP overview" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://https://arxiv.org/abs/2603.17655)
+[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://https://arxiv.org/abs/2603.17655)
 
 **Yaze Zhao**, Yixiong Zou, Yuhua Li, Ruixuan Li
 
-- This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP).
-To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
+- This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP).To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
   </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

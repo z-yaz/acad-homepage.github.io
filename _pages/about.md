@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655)
 
-Yaze Zhao, Yixiong Zou, Yuhua Li, Ruixuan Li
+**Yaze Zhao**, Yixiong Zou, Yuhua Li, Ruixuan Li
 
 - This work first identifies and addresses the local feature misalignment problem in CDFSL scenarios based on vision-language models (CLIP). To tackle this issue, we propose the CC-CDFSL method, which constructs self-supervised signals via bidirectional feature transformation and introduces the Semantic Anchor mechanism to mitigate noise interference in the visual modality.
 </div>

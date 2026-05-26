@@ -14,3 +14,25 @@
     </div>
   </div>
 </div>
+
+<!-- 第一段：无汉堡菜单，链接可能挤成一团或溢出，无法正常使用
+第二段：自动隐藏所有溢出链接到汉堡菜单，仅显示首页和汉堡按钮，点击按钮展开完整菜单 -->
+
+
+<!-- 
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div> -->

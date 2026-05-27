@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, There👋! I am a student at HUST. 
+Hi, There👋! I am a student at Huazhong University of Science and Technology(HUST). 
 
 I am currently diving into **Few-shot Learning** and **Visual Language Model**, aiming to help build more intelligent systems.
 
@@ -91,7 +91,6 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 # 📖 Educations
 - *2025.09 - now*,&nbsp; 华中科技大学，计算机科学与技术专业，硕士
 - *2021.09 - 2025.06*,&nbsp; 华中科技大学，数据科学与大数据专业，本科
-
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

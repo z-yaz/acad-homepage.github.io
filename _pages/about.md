@@ -66,33 +66,31 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 </div>
 
 
-
 # 🎖 Honors and Awards
 
 ### 🏆 Competitions
-- *2026.03* CVPR Workshop NTIRE-CDFSOD Challenge (Cross‑Domain Few‑Shot Object Detection) – Global Second Place
-- *2025.05* Chinese Collegiate Computing Competition (4C), Central South Regional Third Prize
-- *2024.08* RAICOM Robot Developer Competition, National First Prize
-- *2024.06* Blue Bridge Cup National Software and Information Technology Talent Competition, National Second Prize
-- *2024.06* China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, National Second Prize
-- *2024.05* Mathematical Contest in Modeling (MCM), Honorable Mention (H Award)
-- *2024.04* Huawei ICT Competition (Ascend AI Track), National Third Prize
+- *2026.03*&nbsp; CVPR Workshop NTIRE-CDFSOD Challenge (Cross‑Domain Few‑Shot Object Detection) – Global Second Place
+- *2025.05*&nbsp; Chinese Collegiate Computing Competition (4C), Central South Regional Third Prize
+- *2024.08*&nbsp; RAICOM Robot Developer Competition, National First Prize
+- *2024.06*&nbsp; Blue Bridge Cup National Software and Information Technology Talent Competition, National Second Prize
+- *2024.06*&nbsp; China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, National Second Prize
+- *2024.05*&nbsp; Mathematical Contest in Modeling (MCM), Honorable Mention (H Award)
+- *2024.04*&nbsp; Huawei ICT Competition (Ascend AI Track), National Third Prize
 
 ### 🎓 Honors & Scholarships
-- *2025.10* First‑Class Master’s Academic Scholarship, HUST
-- *2025.06* HUST Outstanding Graduate
-- *2025.05* HUST Outstanding Communist Youth League Member
-- *2024.12* HUST Merit Student
-- *2024.03* Sangfor Scholarship
-- *2023.12* Academic Excellence Scholarship, HUST
-- *2023.07* Outstanding Individual in the “Three Rural” Summer Social Practice, HUST
-- *2022.03* Social Welfare Scholarship, HUST
+- *2025.10*&nbsp; First‑Class Master’s Academic Scholarship, HUST
+- *2025.06*&nbsp; HUST Outstanding Graduate
+- *2025.05*&nbsp; HUST Outstanding Communist Youth League Member
+- *2024.12*&nbsp; HUST Merit Student
+- *2024.03*&nbsp; Sangfor Scholarship
+- *2023.12*&nbsp; Academic Excellence Scholarship, HUST
+- *2023.07*&nbsp; Outstanding Individual in the “Three Rural” Summer Social Practice, HUST
+- *2022.03*&nbsp; Social Welfare Scholarship, HUST
 
 
 # 📖 Educations
-- *2025.09 - now*, 华中科技大学，计算机科学与技术专业，硕士
-- *2021.09 - 2025.06*, 华中科技大学，数据科学与大数据专业，本科
-
+- *2025.09 - now*,&nbsp; 华中科技大学，计算机科学与技术专业，硕士
+- *2021.09 - 2025.06*,&nbsp; 华中科技大学，数据科学与大数据专业，本科
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)

@@ -64,7 +64,7 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 Jiacong Liu, Shu Luo, Yikai Qin, **Yaze Zhao**, Yongwei Jiang, Yixiong Zou
 
 - This paper proposes GiPL, an efficient two-branch training framework for CDFSOD. In the first branch, we design an iterative pseudo-label self-training paradigm, which performs zero-shot inference on the support set to generate reliable pseudo-annotations, fuses them with ground-truth labels, and iteratively optimizes the model to fully exploit support set data. In the second branch, we introduce generative data augmentation pipeline using large vision-language models, which synthesizes domain-aligned, multi-object annotated images to enrich training samples and suppress overfitting.  
-  </div>
+</div>
 </div>
 
 

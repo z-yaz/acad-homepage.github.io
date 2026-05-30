@@ -73,6 +73,24 @@ Jiacong Liu, Shu Luo, Yikai Qin, **Yaze Zhao**, Yongwei Jiang, Yixiong Zou
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVPR 2026 Workshop</div>
+      <img src='images/NTIRE_2026_CDFSOD.png' alt="NTIRE_2026_CDFSOD" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results**](http://arxiv.org/abs/2604.11998)
+
+**CDiscover team** from HUST
+
+- As part of NTIRE 2026, we hosted the second CD-FSOD Challenge to systematically evaluate and promote progress in detecting objects in unseen target domains under limited annotation conditions. The challenge received strong community interest, with 128 registered participants and a total of 696 submissions. Participants explored a wide range of strategies, introducing innovative methods that push the performance frontier under both open-source and closed-source tracks. This report presents a detailed overview of the NTIRE 2026 CD-FSOD Challenge, including a summary of the submitted approaches and an analysis of the final results across all participating teams.
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">CVPR 2026</div>
       <img src='images/CC-CDFSL.png' alt="CC-CDFSL overview" width="100%">
     </div>
